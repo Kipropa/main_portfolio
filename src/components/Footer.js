@@ -119,12 +119,12 @@ export default function Footer() {
                 path: 'https://www.linkedin.com/in/kipropa',
               },
               {
-                title: 'Twitter',
-                path: 'http://twitter.com/KipTheDon',
+                title: 'Github',
+                path: 'https://github.com/kipropa',
               },
               {
-                title: 'Instagram',
-                path: 'http://instagram.com',
+                title: 'Webpage',
+                path: 'https://kipropa.netlify.app',
               },
             ]}
           />
@@ -134,7 +134,7 @@ export default function Footer() {
         <div className="container">
           <PText>
             © 2024 - Allan Kiprop |
-            <a target="_blank" rel="noreferrer" href="http://donkipdevops.com">
+            <a target="_blank" rel="noreferrer" href="https://kipropa.netlify.app/">
               {' '}
               Kipropa DevOps
             </a>{' '}
