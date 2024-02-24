@@ -115,8 +115,8 @@ export default function Footer() {
             heading="Social Links"
             links={[
               {
-                title: 'Facebook',
-                path: 'http://facebook.com/allan.kiprop.58958',
+                title: 'LinkedIn',
+                path: 'https://www.linkedin.com/in/kipropa',
               },
               {
                 title: 'Twitter',
