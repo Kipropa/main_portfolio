@@ -100,8 +100,8 @@ export default function Footer() {
                 path: 'tel:+254717121255',
               },
               {
-                title: '1donkip@gmail.com',
-                path: 'mailto:1donkip@gmail.com',
+                title: 'kipropa77@gmail.com',
+                path: 'mailto:kipropa77@gmail.com',
               },
               {
                 title: 'Britam Tower, Upperhill, Nairobi',
@@ -133,10 +133,10 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2022 - Allan Kiprop |
+            © 2024 - Allan Kiprop |
             <a target="_blank" rel="noreferrer" href="http://donkipdevops.com">
               {' '}
-              Donkip DevOps
+              Kipropa DevOps
             </a>{' '}
           </PText>
         </div>
