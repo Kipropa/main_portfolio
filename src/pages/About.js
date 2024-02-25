@@ -124,7 +124,7 @@ export default function About() {
               </div>
               <button className="cvBtn">
                 <Link to="/files/Allan.pdf" target="_blank" download>
-                  <p className="textcv">Download Resume</p>
+                  <p className="textcv">Download CV</p>
                 </Link>
               </button>
             </div>
