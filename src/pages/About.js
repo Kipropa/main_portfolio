@@ -124,7 +124,7 @@ export default function About() {
               </div>
               <button className="cvBtn">
                 <Link to="/files/Allan.pdf" target="_blank" download>
-                  <p className="textcv">Download CV</p>
+                  <p className="textcv">Download Resume</p>
                 </Link>
               </button>
             </div>
@@ -161,13 +161,13 @@ export default function About() {
 
               <AboutInfoItem
                 title="2016-2017"
-                items={['Freelance Junior Developer']}
+                items={['Junior Developer at Oracom']}
               />
               <AboutInfoItem
                 title="2018-2020"
-                items={['Freelance Full Stack Developer at Oracom ']}
+                items={['Full Stack Developer at Oracom ']}
               />
-              <AboutInfoItem title="2021-" items={['Freelance Software Developer']} />
+              <AboutInfoItem title="2021-" items={['Freelance Web Engineer']} />
             </div>
           </div>
         </div>

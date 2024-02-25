@@ -115,16 +115,16 @@ export default function Footer() {
             heading="Social Links"
             links={[
               {
-                title: 'LinkedIn',
-                path: 'https://www.linkedin.com/in/kipropa',
+                title: 'Facebook',
+                path: 'http://facebook.com/allan.kiprop.58958',
               },
               {
-                title: 'Github',
-                path: 'https://github.com/kipropa',
+                title: 'Twitter',
+                path: 'http://twitter.com/KipTheDon',
               },
               {
-                title: 'Webpage',
-                path: 'https://kipropa.netlify.app',
+                title: 'Instagram',
+                path: 'http://instagram.com',
               },
             ]}
           />
@@ -134,7 +134,7 @@ export default function Footer() {
         <div className="container">
           <PText>
             © 2024 - Allan Kiprop |
-            <a target="_blank" rel="noreferrer" href="https://kipropa.netlify.app/">
+            <a target="_blank" rel="noreferrer" href="http://donkipdevops.com">
               {' '}
               Kipropa DevOps
             </a>{' '}
