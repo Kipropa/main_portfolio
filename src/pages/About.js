@@ -161,11 +161,11 @@ export default function About() {
 
               <AboutInfoItem
                 title="2016-2017"
-                items={['Junior Developer at Oracom']}
+                items={['Freelance Junior Developer']}
               />
               <AboutInfoItem
                 title="2018-2020"
-                items={['Full Stack Developer at Oracom ']}
+                items={['Freelance Full Stack Developer ']}
               />
               <AboutInfoItem title="2021-" items={['Freelance Web Engineer']} />
             </div>
