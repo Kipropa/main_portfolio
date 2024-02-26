@@ -149,7 +149,7 @@ export default function About() {
               />
               <AboutInfoItem
                 title="BackEnd"
-                items={['NodeJS', 'ExpressJS', 'PHP']}
+                items={['Node', 'Express', 'PHP']}
               />
               <AboutInfoItem
                 title="Design"
@@ -161,13 +161,13 @@ export default function About() {
 
               <AboutInfoItem
                 title="2016-2017"
-                items={['Freelance Junior Developer']}
+                items={['Junior Developer at Oracom']}
               />
               <AboutInfoItem
-                title="2018-2024"
-                items={['Freelance Software Developer']}
+                title="2018-2020"
+                items={['Full Stack Developer at Oracom ']}
               />
-              <AboutInfoItem title="2021-Current" items={['Freelance Web Engineer']} />
+              <AboutInfoItem title="2021-" items={['Freelance Web Engineer']} />
             </div>
           </div>
         </div>
