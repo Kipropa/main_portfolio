@@ -81,7 +81,7 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I am a freelance Software Engineer from Upperhill,
+            I am a freelance website designer and developer from Upperhill,
             Nairobi. I create professional websites. I love art and always
             deliver unique views to the audience through my design.
           </PText>
