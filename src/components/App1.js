@@ -95,14 +95,6 @@ const App1 = () => {
         <Form.Field
           id="form-input-control-email"
           control={Input}
-          label="Phone"
-          name="phone"
-          placeholder="Phone..."
-          required
-        />
-        <Form.Field
-          id="form-input-control-email"
-          control={Input}
           type="email"
           label="Email"
           name="email"
