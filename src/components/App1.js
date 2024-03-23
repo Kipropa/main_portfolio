@@ -88,7 +88,7 @@ const App1 = () => {
           id="form-input-control-name"
           control={Input}
           label="Name"
-          name="from_Name"
+          name="to_Name"
           placeholder="Name..."
           required
         />
@@ -97,7 +97,7 @@ const App1 = () => {
           control={Input}
           type="email"
           label="Email"
-          name="email"
+          name="from_Name"
           placeholder="Email..."
           required
         />
